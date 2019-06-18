@@ -1,0 +1,13 @@
+#popTable tr:nth-child(2n){
+background-color: #fbc9a7
+}
+#popTable{
+	width: 99%;
+}
+#popTable tr:nth-child(2n+1){
+background-color: #44ae55
+}
+
+#popTable tr:nth-child(1){
+background-color: #ae5977
+}
